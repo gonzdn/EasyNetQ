@@ -1,0 +1,12 @@
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\bin\Debug\net5.0\Core.deps.json
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\bin\Debug\net5.0\Core.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\bin\Debug\net5.0\ref\Core.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\bin\Debug\net5.0\Core.pdb
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\obj\Debug\net5.0\Core.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\obj\Debug\net5.0\ref\Core.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\Core\obj\Debug\net5.0\Core.pdb

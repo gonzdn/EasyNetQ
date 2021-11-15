@@ -1,0 +1,15 @@
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\bin\Debug\net5.0\Core.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\MessageBus.AssemblyInfoInputs.cache
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\MessageBus.AssemblyInfo.cs
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\bin\Debug\net5.0\MessageBus.deps.json
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\bin\Debug\net5.0\MessageBus.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\bin\Debug\net5.0\ref\MessageBus.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\bin\Debug\net5.0\MessageBus.pdb
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\bin\Debug\net5.0\Core.pdb
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\MessageBus.csprojAssemblyReference.cache
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\MessageBus.csproj.CoreCompileInputs.cache
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\MessageBus.csproj.CopyComplete
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\MessageBus.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\ref\MessageBus.dll
+N:\Documentos\Practicando\Rabbit_Calculator\Rabbit_Calculator\MessageBus\obj\Debug\net5.0\MessageBus.pdb

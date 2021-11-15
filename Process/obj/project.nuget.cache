@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcbAB76wdz3J5utBguj4M5hK992UPr5pWS+F7Q5aegoM+4gLb5TYxrzp/GQ1HxDu8iJE9xUJSqobafPxc4LdBg==",
+  "success": true,
+  "projectFilePath": "N:\\Documentos\\Practicando\\Rabbit_Calculator\\Rabbit_Calculator\\Process\\Process.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GONZALO\\.nuget\\packages\\easynetq\\5.1.1\\easynetq.5.1.1.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\GONZALO\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
